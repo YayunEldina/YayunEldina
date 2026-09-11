@@ -14,78 +14,74 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 
 ## 🛠️ Tech Stack
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+
+<td align="center" width="50%">
 
 ### 🌐 Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 ### ⚙️ Backend & Database
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,mysql,postgres" />
 </p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+
+<td align="center" width="50%">
 
 ### 🎨 UI/UX & Development Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" />
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 ### 📊 Microsoft Office
 
-<p align="left">
+<p>
   <img
     src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/word.svg"
-    width="55"
-    height="55"
+    width="45"
+    height="45"
     alt="Microsoft Word"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <img
     src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/excel.svg"
-    width="55"
-    height="55"
+    width="45"
+    height="45"
     alt="Microsoft Excel"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <img
     src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/powerpoint.svg"
-    width="55"
-    height="55"
+    width="45"
+    height="45"
     alt="Microsoft PowerPoint"
   />
 </p>
 
-<p align="left">
-  <strong>Word</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Excel</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>PowerPoint</strong>
-</p>
-
 </td>
+
 </tr>
 </table>
 
