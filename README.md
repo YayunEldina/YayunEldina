@@ -62,14 +62,6 @@ I enjoy developing responsive and user-friendly web applications, translating UI
   <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="65" height="65" alt="Microsoft PowerPoint" />
 </p>
 
-<p align="left">
-  <strong>Microsoft Word</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Microsoft Excel</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Microsoft PowerPoint</strong>
-</p>
-
 ---
 
 ## 📫 Let's Connect
