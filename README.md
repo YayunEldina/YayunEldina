@@ -19,7 +19,7 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 
 <td align="center" width="50%">
 
-### 🌐 Frontend
+## 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
@@ -29,7 +29,7 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 
 <td align="center" width="50%">
 
-### ⚙️ Backend & Database
+## ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,mysql,postgres" />
@@ -43,7 +43,7 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 
 <td align="center" width="50%">
 
-### 🎨 UI/UX & Development Tools
+## 🎨 UI/UX & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" />
@@ -53,32 +53,23 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 
 <td align="center" width="50%">
 
-### 📊 Microsoft Office
+## 📊 Microsoft Office
 
-<p>
-  <img
-    src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/word.svg"
-    width="45"
-    height="45"
-    alt="Microsoft Word"
-  />
-  &nbsp;&nbsp;
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/word.svg" width="45" height="45" alt="Microsoft Word" />
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/excel.svg"
-    width="45"
-    height="45"
-    alt="Microsoft Excel"
-  />
-  &nbsp;&nbsp;
+<td align="center">
+<img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/excel.svg" width="45" height="45" alt="Microsoft Excel" />
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/powerpoint.svg"
-    width="45"
-    height="45"
-    alt="Microsoft PowerPoint"
-  />
-</p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/powerpoint.svg" width="45" height="45" alt="Microsoft PowerPoint" />
+</td>
+</tr>
+</table>
 
 </td>
 
