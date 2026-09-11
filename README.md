@@ -55,36 +55,20 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 ### 📊 Microsoft Office
 
 <p align="left">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg"
-    width="70"
-    height="70"
-    alt="Microsoft Word"
-  />
-
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg"
-    width="70"
-    height="70"
-    alt="Microsoft Excel"
-  />
-
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg"
-    width="70"
-    height="70"
-    alt="Microsoft PowerPoint"
-  />
+  <img src="https://cdn.simpleicons.org/microsoftword" width="65" height="65" alt="Microsoft Word" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="65" height="65" alt="Microsoft Excel" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint" width="65" height="65" alt="Microsoft PowerPoint" />
 </p>
 
-<p>
+<p align="left">
   <strong>Microsoft Word</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Microsoft Excel</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Microsoft PowerPoint</strong>
 </p>
-
 ---
 
 ## 📫 Let's Connect
