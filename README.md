@@ -55,11 +55,11 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 ### 📊 Microsoft Office
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftword" width="65" height="65" alt="Microsoft Word" />
+  <img src="https://img.icons8.com/color/96/microsoft-word-2019.png" width="65" height="65" alt="Microsoft Word" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="65" height="65" alt="Microsoft Excel" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="65" height="65" alt="Microsoft Excel" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint" width="65" height="65" alt="Microsoft PowerPoint" />
+  <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="65" height="65" alt="Microsoft PowerPoint" />
 </p>
 
 <p align="left">
@@ -69,6 +69,7 @@ I enjoy developing responsive and user-friendly web applications, translating UI
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Microsoft PowerPoint</strong>
 </p>
+
 ---
 
 ## 📫 Let's Connect
@@ -84,6 +85,3 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
-
-Feel free to explore my repositories and projects.
