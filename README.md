@@ -51,10 +51,39 @@ I enjoy developing responsive and user-friendly web applications, translating UI
 <td width="50%" valign="top">
 
 ### 📊 Microsoft Office
-<p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="55" height="55" alt="Microsoft Word" /> &nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="55" height="55" alt="Microsoft Excel" /> &nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="55" height="55" alt="Microsoft PowerPoint" /> </p>
+
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/word.svg"
+    width="55"
+    height="55"
+    alt="Microsoft Word"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img
+    src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/excel.svg"
+    width="55"
+    height="55"
+    alt="Microsoft Excel"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img
+    src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/powerpoint.svg"
+    width="55"
+    height="55"
+    alt="Microsoft PowerPoint"
+  />
+</p>
+
+<p align="left">
+  <strong>Word</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Excel</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>PowerPoint</strong>
+</p>
 
 </td>
 </tr>
@@ -71,8 +100,7 @@ I enjoy developing responsive and user-friendly web applications, translating UI
       alt="LinkedIn"
     />
   </a>
-
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="mailto:yayuneldina02@gmail.com">
     <img
